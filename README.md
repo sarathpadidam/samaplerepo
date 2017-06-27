@@ -1,2 +1,0 @@
-# samaplerepo
-sample repository
